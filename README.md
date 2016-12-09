@@ -1,4 +1,4 @@
-# discover
+# Discover
 Discover New & Fun
 
 ## Why do this
